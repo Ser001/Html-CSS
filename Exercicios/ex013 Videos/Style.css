@@ -1,0 +1,22 @@
+body {
+    background-color: #333333; /* Defina a cor de fundo como cinza escuro */
+}
+
+h1 {
+    color: #ffffff; /* Defina a cor do texto como branco */
+    text-align: center; /* Centralize o texto */
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Centralize horizontalmente os vídeos */
+    align-items: center; /* Centralize verticalmente os vídeos */
+    height: 100vh; /* Ocupar a altura total da viewport */
+}
+
+.container img {
+    width: 350px; /* Defina a largura das imagens dos vídeos */
+    height: auto; /* A altura será ajustada automaticamente */
+    margin: 20px; /* Adicione uma margem para separar as imagens dos vídeos */
+}

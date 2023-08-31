@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fontes em CSS</title>
+    <style>
+        body{
+            font-family: 'Work Sans', Arial, Helvetica, sans-serif;
+        /*
+        Medidas Absolutas: cm, mm, in, px, pt, pc
+        
+        Medidas Relativas: em, ex, rem, vw, vh, %
+        
+        *16px geralmente = 1em
+        
+        Recomendação para font-size usar somente "px - em"
+        */
+        /*font-size:16px;
+        font-weight: bolder;
+        font-style: italic;
+        text-decoration: underline;
+         *Lighter-normal-bold-bolder*  */
+        }
+       h1 {
+           /* //shorthand font // 
+           -font-style -> font-weight -> font-size -> font-family
+
+           font-family: 'Work Sans', sans-serif;
+           font-weight: bolder;
+           font-size: 3em;
+           font-style: italic;
+           em vez de usar isso acima posso usar esse código abaixo na sequência do shorthand font*/
+           font: italic bolder 3em 'Work Sans', sans-serif
+    }
+    h2 {
+        font: bold 2em 'Work Sans';
+
+    }
+    </style>
+</head>
+<body>
+    <h1>Trabalhando com fontes</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem excepturi ipsa iusto quis! Accusantium doloribus ut iste corrupti! Illum officia laboriosam ipsam ducimus dignissimos, id hic illo tempora nemo quibusdam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, eligendi! Animi quibusdam aliquam aspernatur iusto delectus molestias provident? Eligendi, delectus laborum suscipit rem nihil debitis assumenda quaerat porro fugiat asperiores.</p>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente ab maxime non fugiat porro facere tenetur tempore unde placeat. Veritatis temporibus vel unde iste? Optio amet corporis earum itaque rerum!</p>
+    <h2>Subtítulo do exercício Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, dolor cupiditate rem voluptas dolorum eos itaque expedita quis aspernatur nemo molestias officia voluptates deserunt ex maxime sequi possimus tempora vel.</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, minus impedit facere quo tempore similique. Similique provident illo laudantium doloribus eos consequatur debitis esse, ut architecto nihil? Rerum, quo omins.</p>
+
+
+</body>
+</html>
