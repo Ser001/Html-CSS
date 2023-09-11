@@ -19,7 +19,7 @@
  <li><a href="https://ser001.github.io/Html-CSS/Exercicios/ex016/index.html">Executar o exercício 016 (Cores)</a></li>
  <li><a href="https://ser001.github.io/Html-CSS/Exercicios/ex017/index.html">Executar o exercício 017 (Tamanho de Fonts)</a></li>
  <li><a href="https://ser001.github.io/Html-CSS/Exercicios/ex018/index.html">Executar o exercício 018 (Familias de Fonts Externas)</a></li>
- <li><a href="https://ser001.github.io/Html-CSS/Exercicios/ex022/fundo004.html">Imagens de fundo</a></li>
+ <li><a href="https://ser001.github.io/Html-CSS/Exercicios/ex022/index.html">Imagens de fundo</a></li>
  <li><a href="https://ser001.github.io/Html-CSS/Exercicios/EfeitoParallax/index.html">Efeito Parallax</a></li>
  <li><a href="https://ser001.github.io/Html-CSS/Exercicios/EfeitoParallax-Ondas/index.html">Parallax Ondas</a></li>
  <li><a href="https://ser001.github.io/Html-CSS/Exercicios/AlinhamentosdetextocomCSS/index.html">Alinhamento de texto com CSS</a></li>
