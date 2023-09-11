@@ -24,6 +24,7 @@
  <li><a href="https://ser001.github.io/Html-CSS/Exercicios/Alinhamentos de texto com CSS/index.html">Alinhamento de texto com CSS</a></li>
  <li><a href="https://ser001.github.io/Html-CSS/Exercicios/Pseudo classes/index.html">Pseudo Classes</a></li>
  <li><a href="https://ser001.github.io/Html-CSS/Exercicios/Seletores Personalizados CSS/index.html">Seletores Personalizados (CSS)</a></li>
+ </ul>
 
 
  
