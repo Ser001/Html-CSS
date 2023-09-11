@@ -1,5 +1,5 @@
 # Html-CSS
- Test
+ 
 
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
  
@@ -24,7 +24,7 @@
  <a href="https://ser001.github.io/Html-CSS/Exercicios/Alinhamentos de texto com CSS/index.html">Alinhamento de texto com CSS</a>
  <a href="https://ser001.github.io/Html-CSS/Exercicios/Pseudo classes/index.html">Pseudo Classes</a>
  <a href="https://ser001.github.io/Html-CSS/Exercicios/Seletores Personalizados CSS/index.html">Seletores Personalizados (CSS)</a>
- 
+
 
  
 
