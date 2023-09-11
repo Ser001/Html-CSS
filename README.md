@@ -23,7 +23,7 @@
  <li><a href="https://ser001.github.io/Html-CSS/Exercicios/EfeitoParallax-Ondas/index.html">Parallax Ondas</a></li>
  <li><a href="https://ser001.github.io/Html-CSS/Exercicios/AlinhamentosdetextocomCSS/index.html">Alinhamento de texto com CSS</a></li>
  <li><a href="https://ser001.github.io/Html-CSS/Exercicios/Pseudoclasses/index.html">Pseudo Classes</a></li>
- <li><a href="https://ser001.github.io/Html-CSS/Exercicios/SeletoresPersonalizados CSS/index.html">Seletores Personalizados (CSS)</a></li>
+ <li><a href="https://ser001.github.io/Html-CSS/Exercicios/SeletoresPersonalizadosCSS/index.html">Seletores Personalizados (CSS)</a></li>
  </ul>
 
 
