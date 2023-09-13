@@ -1,0 +1,74 @@
+@charset "UTF-8";
+
+/* Reset de margens e preenchimentos */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para o HTML e o corpo da página */
+html, body {
+    min-height: 100vh;
+    background-color: darkgray;
+}
+
+/* Estilos para o cabeçalho */
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+/* Estilos para os títulos no cabeçalho */
+header > h1 {
+    padding-top: 50px;
+    font-variant: small-caps;
+}
+
+/* Estilos para os parágrafos no cabeçalho */
+header > p {
+    padding-bottom: 50px;
+}
+
+/* Estilos para links no cabeçalho e no rodapé */
+header a, footer a {
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+/* Efeitos de hover para links no cabeçalho e no rodapé */
+header a:hover, footer a:hover {
+    text-decoration: underline;
+}
+
+section {
+    padding-top: 10%;
+    padding-bottom: 10vh;
+    line-height: 2em;
+    padding-left: 30px;
+}
+
+/* Estilos para seções normais */
+section.normal {
+    background-color: white;
+    color: black;
+}
+
+/* Estilos para seções de imagem */
+section.imagem {
+    background-color: black;
+    color: white;
+}
+section.imagem > p {
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.205);
+}
+
+/* Estilos para o rodapé */
+footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
