@@ -80,3 +80,6 @@ section.module.parallax h1{
     text-transform: uppercase;
 
 }
+.area1, .area2, .area3{
+    visibility: hidden;
+}
