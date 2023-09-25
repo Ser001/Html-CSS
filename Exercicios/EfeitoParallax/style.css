@@ -83,3 +83,16 @@ section.module.parallax h1{
 .area1, .area2, .area3{
     visibility: hidden;
 }
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    text-align: left; /* Alinha o texto à esquerda na coluna "Modelo" */
+}
+
+td:last-child {
+    text-align:justify; /* Alinha o texto à direita na última coluna, que é "Potência" */
+
+}
