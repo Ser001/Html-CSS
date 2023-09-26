@@ -11,6 +11,7 @@
         table{
             width: 500px;
             border-collapse: collapse;
+            position: relative;
         }
         td, th{
             border: 1px solid black;
@@ -30,6 +31,11 @@
         tbody > tr:nth-child(2n){
             background-color: lightgray;
         }*/
+        thead > tr > th{
+            position: sticky;
+            top: -1px;
+            background-color: rgb(75, 75, 75);
+        }
         tbody > tr:nth-child(odd){
             background-color: lightgray;
         }
@@ -110,6 +116,23 @@
             <tr>
                 <td>Paraíba</td>
                 <td class="num">3.974.495</td>
+            </tr>
+            <tr>
+                <td>Rondôdia</td>
+                <td>1.581.016</td>
+            </tr>
+    
+            <tr>
+                <td>Tocantins</td>
+                <td class="num">1.511.459</td>
+            </tr>
+            <tr>
+                <td>Amapá</td>
+                <td class="num">733.508</td>
+            </tr>
+            <tr>
+                <td>Roraima</td>
+                <td class="num">636.303</td>
             </tr>
         </tbody>
         <tfoot>
