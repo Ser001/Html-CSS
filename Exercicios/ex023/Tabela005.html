@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercicio de tabela</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        table {
+            width: 500px;
+            border-collapse: collapse;
+        }
+        caption {
+            font-size: 1.3em;
+            font-weight: bolder;
+            padding: 8px;
+        }
+        th, td{
+            border: 1px solid black;
+            padding: 8px;
+        }
+        tr.destaque {
+            background-color: rgb(9, 245, 9);
+        }
+        col.cnome {
+            background-color: rgb(189, 186, 192);
+        }
+        col.cprof{
+            background-color: aqua;
+        }
+        col.cgrupo{
+ background-color: rgb(186, 186, 229);
+        }
+    </style>
+</head>
+<body>
+    <h1>Tabelas</h1>
+    <table>
+        <colgroup>
+            <col class="cnome">
+            <col class="cgrupo" span="3">
+        </colgroup>
+        <caption>Cadastro</caption>
+        <tr>
+            <th scope="col">Nome</th>
+            <th scope="col">Sexo</th>
+            <th scope="col">Idade</th>
+            <th scope="col">Profissão</th>
+        </tr>
+        <tr>
+            <td>Ana Maria</td>
+            <td>F</td>
+            <td>25</td>
+            <td>Jornalista</td>
+        </tr>
+        <tr>
+            <td>Maria Souza</td>
+            <td>F</td>
+            <td>21</td>
+            <td>Comissária de bordo</td>
+        </tr>
+        <tr >
+            <td>Luiza Abravanell</td>
+            <td>F</td>
+            <td>27</td>
+            <td>Professora</td>
+        </tr>
+        <tr>
+            <td>João Ribeiro Da Silva</td>
+            <td>M</td>
+            <td>22</td>
+            <td>Carpinteiro</td>
+        </tr>
+        <tr>
+            <td>Bruno Gonçalvez</td>
+            <td>M</td>
+            <td>35</td>
+            <td>Caminhoneiro</td>
+        </tr>
+        <tr>
+            <td>Lucas Kull</td>
+            <td>M</td>
+            <td>20</td>
+            <td>Locutor</td>
+        </tr>
+    </table>
+</body>
+</html>
