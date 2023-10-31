@@ -26,6 +26,8 @@
  <li><a href="https://ser001.github.io/Html-CSS/Exercicios/Pseudoclasses/index.html">Pseudo Classes</a></li>
  <li><a href="https://ser001.github.io/Html-CSS/Exercicios/SeletoresPersonalizadosCSS/index.html">Seletores Personalizados (CSS)</a></li>
  </ul>
+<li><a href="https://ser001.github.io/Html-CSS/Exercicios/ex026/mq002/index.html">Orientação dispositivo Media Query02</a></li>
+ </ul>
 
 
  
